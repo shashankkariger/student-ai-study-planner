@@ -1,0 +1,6 @@
+{
+  "name": "Student Timetable, Study Planner & Health Tracker",
+  "description": "An intelligent student productivity platform featuring automated daily timetable generation, study planner with Pomodoro timer, comprehensive health and wellness tracking, an adaptive motivation engine, and a collaborative study group dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
